@@ -18,4 +18,8 @@ structure.
 PACKAGE USED: 
 tkinter for GUI
 time and random
+GAME WINNER CONDITION:
+If the ball hits all the bubble without falling down with the help of the
+paddle it means the players is the winner orelse the player can secure
+highscores which it also seems to be winner
 
